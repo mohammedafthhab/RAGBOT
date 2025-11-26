@@ -20,7 +20,7 @@ from flask_cors import CORS
 from pymongo import MongoClient
 import time
 
-MONGO_URI = "mongodb+srv://smartseed:smartseed2@cluster0.d6hsuzd.mongodb.net/?appName=Cluster0"
+MONGO_URI = ""
 
 client = MongoClient(MONGO_URI)
 
