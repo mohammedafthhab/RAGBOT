@@ -1,0 +1,15 @@
+flask
+flask-cors
+pymongo
+sentence-transformers
+faiss-cpu
+numpy
+requests
+beautifulsoup4
+pdfplumber
+PyPDF2
+pillow
+opencv-python
+mediapipe
+scikit-learn
+python-dotenv
